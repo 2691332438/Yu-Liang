@@ -19,6 +19,5 @@ This repository contains my work for a coding assistant and GitHub workflow assi
 - `Update README with workflow summary and video link` (final step)
 
 ## Video Link
-
-Add your video link here.
+(https://youtu.be/u4nWzEO6gqw)
 
